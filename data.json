@@ -10,12 +10,6 @@
           "displayName": "최적화",
           "status": 0,
           "default": true
-        },
-        {
-          "name": "quality",
-          "displayName": "퀄리티",
-          "status": 0,
-          "default": true
         }
       ]
     }
